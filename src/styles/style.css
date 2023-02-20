@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+a {
+  display: flex;
+  justify-content: space-between;
+  flex-flow: column;
+  align-content: space-around;
+  /* align-items: center; */
+}
